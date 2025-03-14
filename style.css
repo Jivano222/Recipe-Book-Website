@@ -33,7 +33,7 @@ h2{
 .box p {
     max-width: calc(100% - 40px); 
     margin: 0 auto; 
-    text-align: justify; 
+    text-align: center; 
 }
 
 .box ul {
@@ -105,7 +105,7 @@ p{
 .navbar{
     width: 100%;
     position: fixed;
-    top: 125px;
+    top: 120px;
     z-index: 1000;
 }
 
